@@ -27,8 +27,10 @@
 /* Подключаем блок intro */
 
 @import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__wrapper/intro__wrapper.css);
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/list/__numbers/list__numbers.css);
 @import url(../blocks/list/list.css);
 @import url(../blocks/list/__text/list__text.css);
 

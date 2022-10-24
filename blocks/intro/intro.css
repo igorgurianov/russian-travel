@@ -2,19 +2,26 @@
     display: flex;
     flex-direction: column;
     max-width: 984px;
-    margin: 114px auto 148px;
+    margin: 92px auto 92px;
 }
+
+@media screen and (max-width:1279px) {
+    .intro {
+        max-width: 928px;
+    }
+}
+
 
 @media screen and (max-width:1023px) {
     .intro {
         max-width: 720px;
-        margin: 110px 24px 88px;
+        margin: 88px auto 88px;
     }
 }
 
 @media screen and (max-width:767px) {
     .intro {
         max-width: 288px;
-        margin: 86px auto 64px;
+        margin: 64px auto 64px;
     }
 }

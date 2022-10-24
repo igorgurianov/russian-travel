@@ -1,6 +1,7 @@
 .place__link {
     color: #FFFFFF;
     transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    margin: 0 0 0 0;
 }
 
 .place__link:hover {
