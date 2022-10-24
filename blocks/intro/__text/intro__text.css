@@ -1,20 +1,20 @@
 .intro__text {
-    color: #FFFFFF;
-    font-size: 16px;
-    line-height: 26.08px;
-    margin: 40px 0px 0px 0px;
-    max-width: 690px;
+  color: #FFFFFF;
+  font-size: 16px;
+  line-height: 26.08px;
+  margin: 40px 0px 0px 0px;
+  max-width: 690px;
 }
 
 @media screen and (max-width:1023px) {
-    .intro__text {
-        max-width: 720px;
-        margin: 40px auto 0px;
-    }
+  .intro__text {
+    max-width: 720px;
+    margin: 40px auto 0px;
+  }
 }
 
 @media screen and (max-width:767px) {
-    .intro__text {
-        max-width: 288px;
-    }
+  .intro__text {
+    max-width: 288px;
+  }
 }

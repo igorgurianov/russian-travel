@@ -1,15 +1,16 @@
 .footer__link-list {
-    color: #FFFFFF;
-    margin: 0px 18px 0px 0px;
-    list-style: none;
-    align-self: start;
+  color: #FFFFFF;
+  margin: 0px 18px 0px 0px;
+  list-style: none;
+  align-self: start;
 }
 
 @media screen and (max-width:767px) {
-    .footer__link-list {
-        margin-bottom: 32px;
-    }
-    .footer__link-list:last-of-type{
-        margin-bottom: 0px;
-    }
+  .footer__link-list {
+    margin-bottom: 32px;
+  }
+
+  .footer__link-list:last-of-type {
+    margin-bottom: 0px;
+  }
 }

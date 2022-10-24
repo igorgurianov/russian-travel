@@ -1,8 +1,3 @@
 .cover__wrapper {
-    position: relative;
-    padding-top: 62.5%;
-    background-image: url(../../../sprint-3-images/cover-trains.jpg);
-    background-color: antiquewhite;
-    background-size: cover;
-    background-position: center;
+
 }

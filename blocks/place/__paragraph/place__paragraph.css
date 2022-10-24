@@ -1,18 +1,17 @@
 .place__paragraph {
-    color: #FFFFFF;
-    line-height: 29.34px;
-    font-size: 18px;
-    margin: 0px 0px 26px 0px;
+  color: #FFFFFF;
+  line-height: 29.34px;
+  font-size: 18px;
+  margin: 0px 0px 26px 0px;
 }
 
 .place__paragraph:nth-child(2) {
-    margin-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 @media screen and (max-width:1023px) {
-    .place__paragraph {
-        font-size: 16px;
-        line-height: 26.08px;
-    }
+  .place__paragraph {
+    font-size: 16px;
+    line-height: 26.08px;
+  }
 }
-

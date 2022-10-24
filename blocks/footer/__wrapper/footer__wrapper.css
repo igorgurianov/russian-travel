@@ -1,16 +1,16 @@
 .footer__wrapper {
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;   
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 @media screen and (max-width:767px) {
-    .footer__wrapper {
-        display: flex;
-        flex-direction: column;
-        max-width: 186px;
-        margin-bottom: 48px;
-    }
+  .footer__wrapper {
+    display: flex;
+    flex-direction: column;
+    max-width: 186px;
+    margin-bottom: 48px;
+  }
 }

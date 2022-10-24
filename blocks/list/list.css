@@ -1,13 +1,13 @@
 .list {
-    max-width: 690px;
-    padding-left: 0px;
-    margin: 33px 0px 0px 0px ;
-    list-style: none;
+  max-width: 690px;
+  padding-left: 0px;
+  margin: 33px 0px 0px 0px;
+  list-style: none;
 }
 
 @media screen and (max-width:767px) {
-    .list {
-        max-width: 288px;
-        margin: 34px auto 0px 0px;
-    }
+  .list {
+    max-width: 288px;
+    margin: 34px auto 0px 0px;
+  }
 }

@@ -7,14 +7,12 @@
 
 @import url(../vendor/fonts/Inter/inter.css);
 
-
 /* Подключаем блок header */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__lang-wrapper/header__lang-wrapper.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link/_status/header__lang-link_status_active.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 @import url(../blocks/header/__logo/header__logo.css);
-
 
 /* Подключаем блок lead */
 
@@ -64,7 +62,7 @@
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__wrapper/footer__wrapper.css);
+@import url(../blocks/footer/__navigation/footer__navigation.css);
 @import url(../blocks/footer/__link-list/footer__link-list.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-
