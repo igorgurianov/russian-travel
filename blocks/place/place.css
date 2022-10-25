@@ -15,7 +15,6 @@
 @media screen and (max-width:1279px) {
   .place {
     grid-template-columns: 440px minmax(320px, 456px);
-    row-gap: 48px;
     column-gap: 32px;
   }
 }
@@ -23,10 +22,10 @@
 @media screen and (max-width:1023px) {
   .place {
     grid-template-columns: 340px minmax(320px, 352px);
-    row-gap: 48px;
     column-gap: 28px;
     font-size: 16px;
-    line-height: 26.08px;
+    line-height: 26px;
+    margin-bottom: 73px;
   }
 }
 
@@ -35,8 +34,6 @@
     display: flex;
     flex-direction: column;
     margin: 0px auto 50px;
-    font-size: 16px;
-    line-height: 26.08px;
     row-gap: 32px;
   }
 }

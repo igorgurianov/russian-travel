@@ -1,7 +1,7 @@
 .place__website {
-  color: #FFFF;
+  color: #FFF;
   align-self: end;
-  margin: 0px 0px 0px 0px;
+  margin: 0;
 }
 
 @media screen and (max-width:767px) {
